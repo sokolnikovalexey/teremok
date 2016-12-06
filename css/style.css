@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1, span, a {
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.left {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.right {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
